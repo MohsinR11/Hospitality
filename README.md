@@ -8,33 +8,24 @@ Revenue Analysis: Total revenue breakdown by category (Luxury and Business) with
 
 Occupancy Metrics: Weekly trends for occupancy percentage with comparison between weekdays and weekends.
 
-# RevPAR and ADR Insights:
-RevPAR (Revenue Per Available Room): Trend analysis and comparisons.
+RevPAR and ADR Insights: RevPAR (Revenue Per Available Room): Trend analysis and comparisons.
 
 ADR (Average Daily Rate): Realization percentage by booking platform.
 
-# Property Metrics:
-Key indicators such as RevPAR, ADR, occupancy, cancellation rates, and average ratings for individual properties.
+Property Metrics: Key indicators such as RevPAR, ADR, occupancy, cancellation rates, and average ratings for individual properties.
 
 Booking Patterns: Analysis of daily booked and sellable room nights with a focus on utilization rates.
 
 # Dashboard Highlights
-Revenue Percentage by Category:
+Revenue Percentage by Category: Displays a donut chart showing the split between luxury (61.61%) and business (38.39%) categories.
 
-Displays a donut chart showing the split between luxury (61.61%) and business (38.39%) categories.
+Trends by Key Metrics: Weekly trends of RevPAR, ADR, and Occupancy% over a three-month period.
 
-# Trends by Key Metrics:
-Weekly trends of RevPAR, ADR, and Occupancy% over a three-month period.
+Realization % & ADR by Booking Platform: Visual comparison of realization percentage against ADR across different booking platforms.
 
-Realization % & ADR by Booking Platform:
+Property-Specific Metrics Table: Summarizes key metrics for each property, including total revenue, occupancy, cancellation rate, and average customer rating.
 
-Visual comparison of realization percentage against ADR across different booking platforms.
-
-# Property-Specific Metrics Table:
-Summarizes key metrics for each property, including total revenue, occupancy, cancellation rate, and average customer rating.
-
-# Weekday vs. Weekend Comparison:
-Highlights differences in performance metrics like revenue, occupancy, ADR, and realization percentages.
+Weekday vs. Weekend Comparison: Highlights differences in performance metrics like revenue, occupancy, ADR, and realization percentages.
 
 # Metrics Explained
 RevPAR (Revenue Per Available Room): Revenue generated per available room.
@@ -76,8 +67,7 @@ Platform Performance: Booking platforms significantly influence realization perc
 # Usage Instructions
 Open the Power BI file (.pbix) to explore the dashboard interactively.
 
-# Use filters to customize views:
-Filter by city, room type, or specific hotel.
+Use filters to customize views: Filter by city, room type, or specific hotel.
 
 Analyze weekly trends, property-level metrics, and booking platform performance.
 
