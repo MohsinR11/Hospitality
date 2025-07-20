@@ -1,86 +1,105 @@
-## Hospitality Dashboard
+# 🏨 Hospitality Dashboard (Power BI)
 
-# Overview
-This project presents a comprehensive Hospitality Dashboard developed using Power BI to analyze and visualize key performance metrics for the hospitality industry. The dashboard provides actionable insights into revenue, occupancy, and booking performance across different cities, room types, and hotels.
+---
 
-# Key Features
-Revenue Analysis: Total revenue breakdown by category (Luxury and Business) with detailed percentage contributions.
+## 📌 Overview
 
-Occupancy Metrics: Weekly trends for occupancy percentage with comparison between weekdays and weekends.
+This project presents a **comprehensive Hospitality Dashboard** developed in **Power BI** to analyze and visualize key performance metrics for the **hospitality industry**.  
+It delivers actionable insights on **revenue, occupancy, RevPAR, ADR**, and **booking performance** across **cities, room types, properties, and booking platforms**.
 
-RevPAR and ADR Insights: RevPAR (Revenue Per Available Room): Trend analysis and comparisons.
+---
 
-ADR (Average Daily Rate): Realization percentage by booking platform.
+## 🔑 Key Features
 
-Property Metrics: Key indicators such as RevPAR, ADR, occupancy, cancellation rates, and average ratings for individual properties.
+- **💰 Revenue Analysis:** Total revenue split by category (**Luxury: 61.61%**, **Business: 38.39%**) with detailed contribution charts.
+- **📊 Occupancy Metrics:** Weekly trends comparing **weekday vs. weekend** occupancy rates.
+- **📈 RevPAR & ADR Insights:**
+  - **RevPAR (Revenue Per Available Room):** Trend analysis and comparisons.
+  - **ADR (Average Daily Rate):** Realization percentage breakdown by booking platform.
+- **🏢 Property Metrics:** Key indicators such as RevPAR, ADR, occupancy, cancellation rates, and average ratings for each hotel/property.
+- **📅 Booking Patterns:** Daily booked vs. sellable room nights, focusing on utilization and realization.
 
-Booking Patterns: Analysis of daily booked and sellable room nights with a focus on utilization rates.
+---
 
-# Dashboard Highlights
-Revenue Percentage by Category: Displays a donut chart showing the split between luxury (61.61%) and business (38.39%) categories.
+## 🌟 Dashboard Highlights
 
-Trends by Key Metrics: Weekly trends of RevPAR, ADR, and Occupancy% over a three-month period.
+- **Donut Chart:** Revenue percentage split — Luxury vs. Business.
+- **Key Trends:** Weekly performance trends for RevPAR, ADR, and Occupancy% (3-month period).
+- **Platform Analysis:** Visual comparison of **realization %** and **ADR** by booking platform.
+- **Property Table:** Metrics by property — total revenue, occupancy, cancellation %, average customer rating.
+- **Weekday vs. Weekend:** Performance differences in revenue, occupancy, ADR, and realization %.
 
-Realization % & ADR by Booking Platform: Visual comparison of realization percentage against ADR across different booking platforms.
+---
 
-Property-Specific Metrics Table: Summarizes key metrics for each property, including total revenue, occupancy, cancellation rate, and average customer rating.
+## 📏 Metrics Explained
 
-Weekday vs. Weekend Comparison: Highlights differences in performance metrics like revenue, occupancy, ADR, and realization percentages.
+- **RevPAR:** Revenue Per Available Room.
+- **ADR:** Average Daily Rate — average income per paid occupied room.
+- **Occupancy %:** % of rooms utilized.
+- **DSRN:** Daily Sellable Room Nights.
+- **DBRN:** Daily Booked Room Nights.
+- **DURN:** Daily Utilized Room Nights.
+- **Realization %:** Revenue realized vs. potential revenue.
+- **Cancellation %:** % of booked rooms that were canceled.
 
-# Metrics Explained
-RevPAR (Revenue Per Available Room): Revenue generated per available room.
+---
 
-ADR (Average Daily Rate): Average income per paid occupied room.
+## 🛠️ Tools Used
 
-Occupancy %: Percentage of rooms utilized.
+- **Power BI:** For building interactive dashboards and visualizations.
 
-DSRN: Daily Sellable Room Nights.
+---
 
-DBRN: Daily Booked Room Nights.
+## 📂 Dataset
 
-DURN: Daily Utilized Room Nights.
+The dataset includes hotel performance data by:
+- **City**
+- **Property**
+- **Booking Platform**
 
-Realization %: Percentage of revenue realized compared to potential revenue.
+**Key Columns:**  
+`Property ID`, `Property Name`, `City`, `Revenue`, `ADR`, `RevPAR`, `Occupancy%`, `DSRN`, `DBRN`, `DURN`, `Realization %`, `Cancellation %`.
 
-Cancellation %: Proportion of booked rooms that were canceled.
+---
 
-# Tools Used
-Power BI: For data visualization and creating interactive dashboards.
+## 🔍 Insights Derived
 
-# Dataset
-The dataset contains hotel performance data across various dimensions such as city, property, and booking platforms.
+- **🏙️ City Analysis:** Identify top cities by revenue and occupancy.
+- **📅 Booking Trends:** Weekday vs. weekend performance.
+- **⚠️ Cancellation:** Pinpoint properties with high cancellation rates.
+- **💎 Revenue Drivers:** Luxury category drives the bulk of revenue.
+- **🗂️ Platform Impact:** Booking platforms influence realization % and ADR significantly.
 
-# Key columns include:
-Property ID, Property Name, City, Revenue, ADR, RevPAR, Occupancy%, DSRN, DBRN, DURN, Realization %, and Cancellation %.
+---
 
-# Insights Derived
-City-Level Analysis: Identify top-performing cities based on revenue and occupancy metrics.
+## 🖼️ Screenshot
 
-Booking Trends: Understand weekday versus weekend performance.
+![Hospitality Dashboard](https://github.com/MohsinR11/Hospitality/blob/main/Screenshot%202025-07-20%20124848.png)
 
-Cancellation Insights: High cancellation rates observed in specific properties highlight areas for improvement.
+---
 
-Revenue Drivers: Luxury category generates a majority of the revenue.
+## 🚀 Usage Instructions
 
-Platform Performance: Booking platforms significantly influence realization percentages and ADR.
+1. **Open** the Power BI file (`.pbix`) to explore the dashboard interactively.
+2. **Use filters** to customize views by **city**, **room type**, or **property**.
+3. **Analyze** weekly trends, property-level metrics, and booking platform performance.
 
-# Usage Instructions
-Open the Power BI file (.pbix) to explore the dashboard interactively.
+---
 
-Use filters to customize views: Filter by city, room type, or specific hotel.
+## 📈 Future Enhancements
 
-Analyze weekly trends, property-level metrics, and booking platform performance.
+- Add **predictive analytics** for occupancy and revenue forecasting.
+- Integrate **real-time data feeds**.
+- Expand coverage for **more booking platforms** and **customer segmentation**.
 
-# Future Enhancements
-Add predictive analytics to forecast occupancy and revenue trends.
+---
 
-Integrate real-time data for up-to-date insights.
+## 👤 Author
 
-Expand to include additional booking platforms and customer segmentation.
+**Mohsin Raza**
 
-# Author
-Mohsin Raza
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
 
-LinkedIn : www.linkedin.com/in/mohsin--raza
+---
 
-E-mail   : mohsinansari1799@gmail.com  
+⭐ *If you find this project useful, please give it a ⭐ and connect with me!*
