@@ -1,11 +1,17 @@
-# 🏨 Hospitality Dashboard (Power BI)
-
-## 📌 Summary / Objective
-An interactive **Hospitality Dashboard** built in **Power BI** to track and analyze **revenue, occupancy, RevPAR, ADR**, and booking performance across multiple cities, properties, room types, and booking platforms - enabling **data-driven decision-making** for the hospitality industry.
+# 🏨 Hospitality Dashboard (Power BI)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+![DAX](https://img.shields.io/badge/DAX-0C2340?style=for-the-badge&logo=data&logoColor=white)  
 
 ---
 
-## 📑 Table of Contents
+## 📌 Summary / Objective  
+An **interactive business intelligence dashboard** built in **Power BI** to monitor and analyze **Revenue**, **Occupancy**, **RevPAR**, **ADR**, and **Booking Performance**.  
+The solution delivers **actionable insights** for data-driven decision-making in the **hospitality industry**.
+
+---
+
+## 📑 Table of Contents  
 1. [Overview](#-overview)  
 2. [Problem Statement](#-problem-statement)  
 3. [Dataset Description](#-dataset-description)  
@@ -19,96 +25,96 @@ An interactive **Hospitality Dashboard** built in **Power BI** to track and anal
 
 ---
 
-## 📝 Overview
-This project delivers a **comprehensive data visualization solution** for the hospitality sector, focusing on **key performance indicators (KPIs)**.  
-It provides an intuitive interface for tracking **financial performance, operational efficiency, and booking patterns**, helping managers and stakeholders make informed strategic decisions.
+## 📝 Overview  
+This project provides a **centralized performance monitoring solution** for the hospitality sector.  
+It consolidates **key performance metrics** into a single, easy-to-navigate dashboard, enabling stakeholders to:  
+- Identify top-performing cities, properties, and booking channels  
+- Track revenue and occupancy trends over time  
+- Spot operational inefficiencies and revenue leakage  
 
 ---
 
-## ❗ Problem Statement
-Hospitality businesses often struggle to **consolidate and analyze scattered performance data** across multiple properties and platforms. This lack of unified insights makes it difficult to identify revenue drivers, monitor occupancy patterns, and optimize booking channels.  
-The goal of this project is to create a **centralized dashboard** that provides **real-time, actionable insights** for better decision-making.
+## ❗ Problem Statement  
+Hospitality businesses often have **fragmented performance data** spread across multiple systems.  
+Without a consolidated view:  
+- Opportunities for revenue growth are missed  
+- Occupancy optimization becomes challenging  
+- Channel performance remains unclear  
+
+This project solves the problem by **integrating and visualizing KPIs** in one dashboard.
 
 ---
 
-## 📂 Dataset Description
-* **Type:** Structured dataset (Excel/CSV) containing hotel KPIs  
-* **Scope:** Multiple cities, properties, room categories, and booking platforms  
-* **Key Columns:**
-  * `Property ID`
-  * `Property Name`
-  * `City`
-  * `Revenue`
-  * `ADR` (Average Daily Rate)
-  * `RevPAR` (Revenue Per Available Room)
-  * `Occupancy%`
-  * `DSRN` (Daily Sellable Room Nights)
-  * `DBRN` (Daily Booked Room Nights)
-  * `DURN` (Daily Utilized Room Nights)
-  * `Realization %`
-  * `Cancellation %`
+## 📂 Dataset Description  
+- **Type:** Structured dataset (`Excel/CSV`)  
+- **Scope:** City-level, property-level, and booking-platform performance data  
+- **Key Columns:**  
+  - `Property Name`, `City`, `Revenue`, `ADR`, `RevPAR`  
+  - `Occupancy%`, `DSRN`, `DBRN`, `DURN`  
+  - `Realization %`, `Cancellation %`
 
 ---
 
-## 🛠️ Tools and Technologies
-* **Power BI** - Dashboard creation & interactive visualizations  
-* **Excel / CSV** - Data storage & preparation  
-* **DAX** - Data modeling & calculated metrics  
+## 🛠️ Tools and Technologies  
+- **Power BI** → Interactive dashboard & data modeling  
+- **Excel / CSV** → Data storage & cleaning  
+- **DAX** → KPI calculations & business logic  
 
 ---
 
-## 🔄 Methodology / Process
-1. **Data Collection** - Gathered structured hotel performance data from multiple sources.  
-2. **Data Cleaning** - Removed inconsistencies, handled missing values, standardized formats.  
-3. **Data Modeling** - Built relationships and calculated KPIs (`RevPAR`, `ADR`, `Occupancy%`).  
-4. **Visualization Design** - Created charts, cards, tables, and slicers for insights.  
-5. **Interactivity Setup** - Added filters for **city**, **property**, **room type**, and **booking platform**.  
-6. **Insights Generation** - Derived actionable findings for revenue optimization and operational improvements.  
+## 🔄 Methodology / Process  
+1. **Data Collection** → Gathered property-level performance data  
+2. **Data Cleaning** → Removed duplicates, handled missing values  
+3. **Data Modeling** → Established relationships, calculated KPIs (`RevPAR`, `ADR`, etc.)  
+4. **Visualization** → Designed charts, tables, and cards for KPIs  
+5. **Interactivity** → Added slicers for city, property, room type, and booking platform  
+6. **Insight Generation** → Highlighted revenue drivers, occupancy trends, and cancellation risks  
 
 ---
 
-## 🖼️ Dashboard / Output
-![Hospitality Dashboard](https://github.com/MohsinR11/Hospitality/blob/main/Screenshot%202025-07-20%20124848.png)
+## 🖼️ Dashboard / Output  
 
-**Key Visual Elements:**
-* **Donut Chart:** Revenue split — Luxury: 61.61% vs. Business: 38.39%  
-* **Weekly Trends:** `RevPAR`, `ADR`, `Occupancy%` over a 3-month period  
-* **Booking Platform Analysis:** `Realization %` and `ADR` comparison  
-* **Property Table:** Revenue, Occupancy, Cancellation %, Ratings  
-* **Weekday vs. Weekend:** Performance differences in KPIs  
+![Hospitality Dashboard](https://github.com/MohsinR11/Hospitality/blob/main/Screenshot%202025-07-20%20124848.png)  
 
----
-
-## ▶ How to Run the Project
-1. **Download** the `.pbix` file from the repository.  
-2. **Open** it in the latest **Power BI Desktop**.  
-3. **Use filters** to customize views by city, property, room type, or booking platform.  
-4. **Analyze** KPIs, trends, and comparisons to extract insights.  
+**Key Visuals:**  
+- **Revenue Split** → Luxury: 61.61% | Business: 38.39%  
+- **Weekly Trends** → `RevPAR`, `ADR`, `Occupancy%`  
+- **Booking Platform Analysis** → Realization % & ADR comparison  
+- **Property Table** → Revenue, Occupancy, Cancellations, Ratings  
+- **Weekday vs. Weekend** → Performance comparison  
 
 ---
 
-## 📊 Results / Insights
-* Luxury properties contribute **~62%** of total revenue.  
-* Weekday vs. Weekend analysis shows **distinct occupancy & ADR patterns**.  
-* Certain properties have **high cancellation rates**, impacting realized revenue.  
-* Booking platforms **significantly influence ADR and Realization %**.  
-* Top cities identified for **targeted marketing efforts**.  
+## ▶ How to Run the Project  
+1. Download the `.pbix` file from this repository  
+2. Open in **Power BI Desktop** (latest version)  
+3. Use filters to explore by city, room type, property, or platform  
+4. Analyze KPIs and trends  
 
 ---
 
-## 🚀 Future Work / Recommendations
-* Integrate **real-time data** for live monitoring.  
-* Build **predictive analytics models** for occupancy & revenue forecasting.  
-* Implement **customer segmentation** for personalized marketing.  
-* Expand dataset coverage to **international properties**.  
+## 📊 Results / Insights  
+- **Luxury properties** generate ~62% of total revenue  
+- Weekday vs. weekend trends show **different occupancy & ADR patterns**  
+- **High cancellation rates** impact revenue in specific properties  
+- **Booking platform choice** significantly affects ADR & Realization %  
+- Identified top cities for **marketing & investment focus**  
 
 ---
 
-## 👤 Author & Contact
+## 🚀 Future Work / Recommendations  
+- **Integrate real-time data** feeds for live tracking  
+- Build **forecasting models** for revenue & occupancy  
+- Add **customer segmentation** to personalize offers  
+- Expand analysis to **international properties**  
+
+---
+
+## 👤 Author & Contact  
 **Mohsin Raza**  
 Data Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://tinyurl.com/MohsinRaza-Portfolio) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=portfolio&logoColor=white)](https://tinyurl.com/MohsinRaza-Portfolio)  
 
-⭐ If you found this project useful, please **star the repository** and connect with me!
+⭐ *If this project inspired you, please star the repo and connect with me!*  
