@@ -6,16 +6,16 @@ An interactive **Hospitality Dashboard** built in **Power BI** to track and anal
 ---
 
 ## 📑 Table of Contents
-1. [Overview](#overview)  
-2. [Problem Statement](#problem-statement)  
-3. [Dataset Description](#dataset-description)  
-4. [Tools and Technologies](#tools-and-technologies)  
-5. [Methodology / Process](#methodology--process)  
-6. [Dashboard / Output](#dashboard--output)  
-7. [How to Run the Project](#how-to-run-the-project)  
-8. [Results / Insights](#results--insights)  
-9. [Future Work / Recommendations](#future-work--recommendations)  
-10. [Author & Contact](#author--contact)  
+1. [Overview](#-overview)  
+2. [Problem Statement](#-problem-statement)  
+3. [Dataset Description](#-dataset-description)  
+4. [Tools and Technologies](#-tools-and-technologies)  
+5. [Methodology / Process](#-methodology--process)  
+6. [Dashboard / Output](#-dashboard--output)  
+7. [How to Run the Project](#-how-to-run-the-project)  
+8. [Results / Insights](#-results--insights)  
+9. [Future Work / Recommendations](#-future-work--recommendations)  
+10. [Author & Contact](#-author--contact)  
 
 ---
 
@@ -107,7 +107,8 @@ The goal of this project is to create a **centralized dashboard** that provides 
 ## 👤 Author & Contact
 **Mohsin Raza**  
 Data Analyst
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohsinR11)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://tinyurl.com/MohsinRaza-Portfolio) 
 
 ⭐ If you found this project useful, please **star the repository** and connect with me!
