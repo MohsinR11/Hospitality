@@ -1,7 +1,7 @@
 # 🏨 Hospitality Dashboard (Power BI)
 
 ## 📌 Summary / Objective
-An interactive **Hospitality Dashboard** built in **Power BI** to track and analyze **revenue, occupancy, RevPAR, ADR**, and booking performance across multiple cities, properties, room types, and booking platforms — enabling **data-driven decision-making** for the hospitality industry.
+An interactive **Hospitality Dashboard** built in **Power BI** to track and analyze **revenue, occupancy, RevPAR, ADR**, and booking performance across multiple cities, properties, room types, and booking platforms - enabling **data-driven decision-making** for the hospitality industry.
 
 ---
 
@@ -51,19 +51,19 @@ The goal of this project is to create a **centralized dashboard** that provides 
 ---
 
 ## 🛠️ Tools and Technologies
-* **Power BI** — Dashboard creation & interactive visualizations  
-* **Excel / CSV** — Data storage & preparation  
-* **DAX** — Data modeling & calculated metrics  
+* **Power BI** - Dashboard creation & interactive visualizations  
+* **Excel / CSV** - Data storage & preparation  
+* **DAX** - Data modeling & calculated metrics  
 
 ---
 
 ## 🔄 Methodology / Process
-1. **Data Collection** — Gathered structured hotel performance data from multiple sources.  
-2. **Data Cleaning** — Removed inconsistencies, handled missing values, standardized formats.  
-3. **Data Modeling** — Built relationships and calculated KPIs (`RevPAR`, `ADR`, `Occupancy%`).  
-4. **Visualization Design** — Created charts, cards, tables, and slicers for insights.  
-5. **Interactivity Setup** — Added filters for **city**, **property**, **room type**, and **booking platform**.  
-6. **Insights Generation** — Derived actionable findings for revenue optimization and operational improvements.  
+1. **Data Collection** - Gathered structured hotel performance data from multiple sources.  
+2. **Data Cleaning** - Removed inconsistencies, handled missing values, standardized formats.  
+3. **Data Modeling** - Built relationships and calculated KPIs (`RevPAR`, `ADR`, `Occupancy%`).  
+4. **Visualization Design** - Created charts, cards, tables, and slicers for insights.  
+5. **Interactivity Setup** - Added filters for **city**, **property**, **room type**, and **booking platform**.  
+6. **Insights Generation** - Derived actionable findings for revenue optimization and operational improvements.  
 
 ---
 
@@ -106,7 +106,7 @@ The goal of this project is to create a **centralized dashboard** that provides 
 
 ## 👤 Author & Contact
 **Mohsin Raza**  
-
+Data Analyst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohsinR11)  
 
