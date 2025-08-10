@@ -1,7 +1,4 @@
-# 🏨 Hospitality Dashboard (Power BI)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![DAX](https://img.shields.io/badge/DAX-0C2340?style=for-the-badge&logo=data&logoColor=white)  
+# 🏨 Hospitality Dashboard (Power BI)    
 
 ---
 
